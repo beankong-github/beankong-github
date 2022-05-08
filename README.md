@@ -5,6 +5,8 @@
 ### Profile
 >안녕하세요! 나무처럼 성장하는 게임 프로그래머 유수빈입니다. 만나서 반갑습니다😄 </br>
 >Hi there! Nice to see you🤗 I'm a game programmer who grows like a tree.
+
+- 🏡 Visit my blog! https://beankong-devlog.tistory.com/
 - 🌱 I’m currently learning : ![iOS badge](https://img.shields.io/badge/-C%20%2F%20C%2B%2B-pink), ![iOS badge](https://img.shields.io/badge/-WinAPI-9cf) ,   ![iOS badge](https://img.shields.io/badge/-DirectX11-%23FFC300)
 - 📫 How to reach me :  <a href="mailto:subeenyoo1002@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=subeenyoo1002@gmail.com"/></a>
 
