@@ -17,6 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beankong-github&layout=compact)](https://github.com/beankong-github/github-readme-stats)
 
 
-### Check My Portfolio
-[게임 프로그래밍 포트폴리오_유수빈.pdf](https://github.com/beankong-github/beankong-github/files/8647599/_.pdf) </br>
-[게임 프로그래밍 포트폴리오_유수빈.pptx](https://github.com/beankong-github/beankong-github/files/8647602/_.pptx)
+### 📌Check My Portfolio
+영상 재생을 위해 .pptx 형식의 파일을 확인하는 것을 권장드립니다.</br>
+[게임 프로그래밍 포트폴리오_유수빈.pptx](https://github.com/beankong-github/beankong-github/files/8647602/_.pptx) </br>
+[게임 프로그래밍 포트폴리오_유수빈.pdf](https://github.com/beankong-github/beankong-github/files/8647599/_.pdf)
+
