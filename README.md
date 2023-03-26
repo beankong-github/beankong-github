@@ -18,4 +18,5 @@
 
 
 ### 📌Check My Portfolio
-[포트폴리오기술문서_유수빈.pdf](https://github.com/beankong-github/beankong-github/files/11043071/_.pdf)
+[포트폴리오기술문서_유수빈.pdf](https://github.com/beankong-github/beankong-github/files/11071347/_._.x.pdf)
+
