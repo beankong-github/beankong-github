@@ -15,8 +15,3 @@
 
 ![Beankong's GitHub stats](https://github-readme-stats.vercel.app/api?username=beankong-github&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beankong-github&layout=compact)](https://github.com/beankong-github/github-readme-stats)
-
-
-### 📌Check My Portfolio
-[포트폴리오기술문서_유수빈.pdf](https://github.com/beankong-github/beankong-github/files/11071347/_._.x.pdf)
-
